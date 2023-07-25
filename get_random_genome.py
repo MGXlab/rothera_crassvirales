@@ -1,4 +1,3 @@
-import numpy as np
 import pandas as pd
 
 
@@ -56,4 +55,4 @@ if __name__ == "__main__":
     output_caudoviricetes_random_file_name = "/mnt/c/crassvirales/ICTV_reference_sequences/reference_random_table.txt"
 
     extract_random_taxonomic_members_from_ictv_vmr(input_file_name, output_caudoviricetes_file_name,
-                                                  output_caudoviricetes_random_file_name)
+                                                   output_caudoviricetes_random_file_name)
